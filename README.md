@@ -11,8 +11,8 @@
 
 | 이두원 | 권서연 | 서지은 |
 | :-: | :-: | :-: |
-| <img src='https://github.com/DuwonLee.png' height=130 width=130></img> | <img src='https://github.com/elegansekwon.png' height=130 width=130></img> | <img src='https://github.com/maiteun.png' height=130 width=130></img> |
-| <a href="https://github.com/DuwonLee" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/elegansekwon" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/maiteun" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> |
+| <img src='https://github.com/DuwonLee.png' height=130 width=130></img> | <img src='https://github.com/elregansekwon.png' height=130 width=130></img> | <img src='https://github.com/maiteun.png' height=130 width=130></img> |
+| <a href="https://github.com/DuwonLee" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/elregansekwon" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/maiteun" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> |
 
 <br>
 
