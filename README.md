@@ -16,14 +16,15 @@
 
 ## Overview
 
-![image](https://github.com/user-attachments/assets/754617dd-610c-4460-8def-ecd72a38a0b0)
+>![image](https://github.com/user-attachments/assets/754617dd-610c-4460-8def-ecd72a38a0b0)
 <br><br>
-![image](https://github.com/user-attachments/assets/2059bdcb-6e8b-443c-b8af-422b3f51178b)
+>![image](https://github.com/user-attachments/assets/2059bdcb-6e8b-443c-b8af-422b3f51178b)
 <br><br>
 
 ## 1. 시각화한 것
 
 >미국 지도와 점수를 부여한 항목(지연 시간, 취소율, 우회율, 비행 시간 정확도, 특정 시간/날짜에 정확하게 비행했는지)을 시각화하였습니다.
+
 >![image](https://github.com/user-attachments/assets/c484f250-2bd4-4087-b30f-ce849f035efc)<br><br>
 
 
