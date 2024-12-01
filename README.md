@@ -14,5 +14,10 @@
 
 <br>
 
+## Overview
+https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023/data
+
 ## 📈 Data
 - [미국 항공 지연/취소 데이터](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023/data)
+
+## 1. 
